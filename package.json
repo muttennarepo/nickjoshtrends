@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.io",
+  "homepage": "https://nickjoshtrending.com",
   "name": "flipkart-product-viewer",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
