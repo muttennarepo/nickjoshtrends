@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d644a501.css",
-    "main.js": "/static/js/main.5011c0bd.js",
-    "static/js/453.6c6c8986.chunk.js": "/static/js/453.6c6c8986.chunk.js",
-    "static/media/flipkart_products.csv": "/static/media/flipkart_products.bae96bd9235e9841f1ab.csv",
-    "index.html": "/index.html",
-    "main.d644a501.css.map": "/static/css/main.d644a501.css.map",
-    "main.5011c0bd.js.map": "/static/js/main.5011c0bd.js.map",
-    "453.6c6c8986.chunk.js.map": "/static/js/453.6c6c8986.chunk.js.map"
+    "main.css": "/nickjoshtrends/static/css/main.d644a501.css",
+    "main.js": "/nickjoshtrends/static/js/main.269724e9.js",
+    "static/js/453.6c6c8986.chunk.js": "/nickjoshtrends/static/js/453.6c6c8986.chunk.js",
+    "static/media/flipkart_products.csv": "/nickjoshtrends/static/media/flipkart_products.bae96bd9235e9841f1ab.csv",
+    "index.html": "/nickjoshtrends/index.html",
+    "main.d644a501.css.map": "/nickjoshtrends/static/css/main.d644a501.css.map",
+    "main.269724e9.js.map": "/nickjoshtrends/static/js/main.269724e9.js.map",
+    "453.6c6c8986.chunk.js.map": "/nickjoshtrends/static/js/453.6c6c8986.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d644a501.css",
-    "static/js/main.5011c0bd.js"
+    "static/js/main.269724e9.js"
   ]
 }
