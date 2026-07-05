@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nickjoshtrends/static/css/main.d644a501.css",
-    "main.js": "/nickjoshtrends/static/js/main.caadeace.js",
+    "main.js": "/nickjoshtrends/static/js/main.0f23502b.js",
     "static/js/453.6c6c8986.chunk.js": "/nickjoshtrends/static/js/453.6c6c8986.chunk.js",
-    "static/media/flipkart_products.csv": "/nickjoshtrends/static/media/flipkart_products.129a4cd80fee4416858a.csv",
+    "static/media/flipkart_products.csv": "/nickjoshtrends/static/media/flipkart_products.9c3f3150f49cf71cdf7a.csv",
     "index.html": "/nickjoshtrends/index.html",
     "main.d644a501.css.map": "/nickjoshtrends/static/css/main.d644a501.css.map",
-    "main.caadeace.js.map": "/nickjoshtrends/static/js/main.caadeace.js.map",
+    "main.0f23502b.js.map": "/nickjoshtrends/static/js/main.0f23502b.js.map",
     "453.6c6c8986.chunk.js.map": "/nickjoshtrends/static/js/453.6c6c8986.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d644a501.css",
-    "static/js/main.caadeace.js"
+    "static/js/main.0f23502b.js"
   ]
 }
